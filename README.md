@@ -10,5 +10,5 @@ A Python project for sentiment analysis on Reddit climate change discussions. Th
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/yourusername/reddit-sentiment-analysis.git
-cd reddit-sentiment-analysis
+cd Climate-change-reddit-sentiment-analysis
 pip install -r requirements.txt
